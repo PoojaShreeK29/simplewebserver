@@ -114,7 +114,7 @@ httpd.serve_forever()
 
 ## OUTPUT:
 Webpage
-V![alt text](image.png)
+![alt text](image.png)
 
 Server Page
 ![alt text](image-1.png)
